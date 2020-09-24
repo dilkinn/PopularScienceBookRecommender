@@ -41,12 +41,171 @@
 39,0684831309,http://goodreads.com/user/show/6413331-doyle,3,A very thorough history of cryptology. There are some techniques/technologies mentioned that are valid even today.
 40,0684831309,http://goodreads.com/user/show/5679058-bob,5,Long and fascinating
 41,0684831309,http://goodreads.com/user/show/17992610-vu-anh,5,I read this book in vietnames version. It's very good book for who like cryptography
-42,0684831309,http://goodreads.com/user/show/8874626-steve,5,"Amazingly informative and comprehensive. While the updated version is not very comprehensive on modern cryptosystems, there are many books better suited for that topic. "
-43,0684831309,http://goodreads.com/user/show/18871235-kjn,3,very interesting but mostly historic. recent advances are very lightly covered.
-44,0684831309,http://goodreads.com/user/show/23975171-warren-adelman,4,Magnum opus on the history. BUT the history only 
-45,0684831309,http://goodreads.com/user/show/38827867-a-deepak897,0,It is an amazing book to learn coading
-46,0684831309,http://goodreads.com/user/show/4076674-tim,4,B&/::: rfTQ .3//SXCn!
-47,0684831309,http://goodreads.com/user/show/45665333-marco-bitetto,5,This is a spell binding account of the history of cryptology and cryptoanalysis... This is a must read for anyone that wants tounderstand what happened in world history...
-48,0684831309,http://goodreads.com/user/show/53124182-dietrich-legat,5,It so happens that my father was a professional codebreaker. He told me a few stories about what really went on in WWII.David Kahn comes closest to all I have read and been told about this subject.
-49,0684831309,http://goodreads.com/user/show/1896233-dan-ragsdale,5,To Roy
-50,0684831309,http://goodreads.com/user/show/4237474-gary-turner,3,"Very comprehensive history, but told in a very dry manner, was very difficult to get through"
+42,0684831309,http://goodreads.com/user/show/18871235-kjn,3,very interesting but mostly historic. recent advances are very lightly covered.
+43,0684831309,http://goodreads.com/user/show/23975171-warren-adelman,4,Magnum opus on the history. BUT the history only 
+44,0684831309,http://goodreads.com/user/show/38827867-a-deepak897,0,It is an amazing book to learn coading
+45,0684831309,http://goodreads.com/user/show/4076674-tim,4,B&/::: rfTQ .3//SXCn!
+46,0684831309,http://goodreads.com/user/show/45665333-marco-bitetto,5,This is a spell binding account of the history of cryptology and cryptoanalysis... This is a must read for anyone that wants tounderstand what happened in world history...
+47,0684831309,http://goodreads.com/user/show/53124182-dietrich-legat,5,It so happens that my father was a professional codebreaker. He told me a few stories about what really went on in WWII.David Kahn comes closest to all I have read and been told about this subject.
+48,0684831309,http://goodreads.com/user/show/1896233-dan-ragsdale,5,To Roy
+49,0684831309,http://goodreads.com/user/show/4237474-gary-turner,3,"Very comprehensive history, but told in a very dry manner, was very difficult to get through"
+50,0684831309,http://goodreads.com/user/show/6917465-dustin,5,"Took a while but solidly worth it. You sort of realize by the end that you accept as tacit, that all codes can be broken, despite a couple of claims otherwise in the book. Interesting that most of the book was written (and not updated) since before the unsealing of Enigma, and it foreshadows a great deal of the Snowden era NSA."
+51,0684831309,http://goodreads.com/user/show/4853893-eric-bauman,4,"Yes, I finally made it through this book! It is very interesting (if you're interested in cryptography), but it is very dry. It took me four months and two breaks to read the almost 1000 pages of text."
+52,0684831309,http://goodreads.com/user/show/50851554-lanea,5,"excellet, really covers all you might want to knowa little to much raw data here and there, but still greatwhy on earth is the first chapter first? is really pearl harbor the must crucial part of codebreaking&ww2?"
+53,0684831309,http://goodreads.com/user/show/655723-nick-black,4,Fairly authoritative and certainly broad in scope.
+54,0684831309,http://goodreads.com/user/show/591995-jayel,0,July 2015: not available on audio at Mechanics' Institute
+55,0684831309,http://goodreads.com/user/show/1798103-anna,5,"A great history about codes. If you like puzzles, historical analysis, or strategy, this is definitely a book for you to read. "
+56,0684831309,http://goodreads.com/user/show/1871453-gavin,3,"I really wanted to like this book a lot, and much of it actually was very interesting. However, it was just too outdated and too long. "
+57,0684831309,http://goodreads.com/user/show/424953-sammy,3,I was about 11 years old when I read this. I don't remember any of it. But the book was huge and was bigger in my little arms.
+58,0684831309,http://goodreads.com/user/show/6212535-alex,3,"Nice historical reading, but mostly unrelevant to modern cryptography."
+59,0684831309,http://goodreads.com/user/show/6413331-doyle,3,A very thorough history of cryptology. There are some techniques/technologies mentioned that are valid even today.
+60,0684831309,http://goodreads.com/user/show/5679058-bob,5,Long and fascinating
+61,0684831309,http://goodreads.com/user/show/17992610-vu-anh,5,I read this book in vietnames version. It's very good book for who like cryptography
+62,0684831309,http://goodreads.com/user/show/18871235-kjn,3,very interesting but mostly historic. recent advances are very lightly covered.
+63,0684831309,http://goodreads.com/user/show/23975171-warren-adelman,4,Magnum opus on the history. BUT the history only 
+64,0684831309,http://goodreads.com/user/show/38827867-a-deepak897,0,It is an amazing book to learn coading
+65,0684831309,http://goodreads.com/user/show/4076674-tim,4,B&/::: rfTQ .3//SXCn!
+66,0684831309,http://goodreads.com/user/show/45665333-marco-bitetto,5,This is a spell binding account of the history of cryptology and cryptoanalysis... This is a must read for anyone that wants tounderstand what happened in world history...
+67,0684831309,http://goodreads.com/user/show/53124182-dietrich-legat,5,It so happens that my father was a professional codebreaker. He told me a few stories about what really went on in WWII.David Kahn comes closest to all I have read and been told about this subject.
+68,0684831309,http://goodreads.com/user/show/1896233-dan-ragsdale,5,To Roy
+69,0684831309,http://goodreads.com/user/show/4237474-gary-turner,3,"Very comprehensive history, but told in a very dry manner, was very difficult to get through"
+70,0684831309,http://goodreads.com/user/show/6917465-dustin,5,"Took a while but solidly worth it. You sort of realize by the end that you accept as tacit, that all codes can be broken, despite a couple of claims otherwise in the book. Interesting that most of the book was written (and not updated) since before the unsealing of Enigma, and it foreshadows a great deal of the Snowden era NSA."
+71,0684831309,http://goodreads.com/user/show/4853893-eric-bauman,4,"Yes, I finally made it through this book! It is very interesting (if you're interested in cryptography), but it is very dry. It took me four months and two breaks to read the almost 1000 pages of text."
+72,0684831309,http://goodreads.com/user/show/50851554-lanea,5,"excellet, really covers all you might want to knowa little to much raw data here and there, but still greatwhy on earth is the first chapter first? is really pearl harbor the must crucial part of codebreaking&ww2?"
+73,0684831309,http://goodreads.com/user/show/655723-nick-black,4,Fairly authoritative and certainly broad in scope.
+74,0684831309,http://goodreads.com/user/show/591995-jayel,0,July 2015: not available on audio at Mechanics' Institute
+75,0684831309,http://goodreads.com/user/show/1798103-anna,5,"A great history about codes. If you like puzzles, historical analysis, or strategy, this is definitely a book for you to read. "
+76,0684831309,http://goodreads.com/user/show/1871453-gavin,3,"I really wanted to like this book a lot, and much of it actually was very interesting. However, it was just too outdated and too long. "
+77,0684831309,http://goodreads.com/user/show/424953-sammy,3,I was about 11 years old when I read this. I don't remember any of it. But the book was huge and was bigger in my little arms.
+78,0684831309,http://goodreads.com/user/show/6212535-alex,3,"Nice historical reading, but mostly unrelevant to modern cryptography."
+79,0684831309,http://goodreads.com/user/show/6413331-doyle,3,A very thorough history of cryptology. There are some techniques/technologies mentioned that are valid even today.
+80,0684831309,http://goodreads.com/user/show/5679058-bob,5,Long and fascinating
+81,0684831309,http://goodreads.com/user/show/17992610-vu-anh,5,I read this book in vietnames version. It's very good book for who like cryptography
+82,0684831309,http://goodreads.com/user/show/18871235-kjn,3,very interesting but mostly historic. recent advances are very lightly covered.
+83,0684831309,http://goodreads.com/user/show/23975171-warren-adelman,4,Magnum opus on the history. BUT the history only 
+84,0684831309,http://goodreads.com/user/show/38827867-a-deepak897,0,It is an amazing book to learn coading
+85,0684831309,http://goodreads.com/user/show/4076674-tim,4,B&/::: rfTQ .3//SXCn!
+86,0684831309,http://goodreads.com/user/show/45665333-marco-bitetto,5,This is a spell binding account of the history of cryptology and cryptoanalysis... This is a must read for anyone that wants tounderstand what happened in world history...
+87,0684831309,http://goodreads.com/user/show/53124182-dietrich-legat,5,It so happens that my father was a professional codebreaker. He told me a few stories about what really went on in WWII.David Kahn comes closest to all I have read and been told about this subject.
+88,0684831309,http://goodreads.com/user/show/1896233-dan-ragsdale,5,To Roy
+89,0684831309,http://goodreads.com/user/show/4237474-gary-turner,3,"Very comprehensive history, but told in a very dry manner, was very difficult to get through"
+90,0684831309,http://goodreads.com/user/show/6917465-dustin,5,"Took a while but solidly worth it. You sort of realize by the end that you accept as tacit, that all codes can be broken, despite a couple of claims otherwise in the book. Interesting that most of the book was written (and not updated) since before the unsealing of Enigma, and it foreshadows a great deal of the Snowden era NSA."
+91,0684831309,http://goodreads.com/user/show/4853893-eric-bauman,4,"Yes, I finally made it through this book! It is very interesting (if you're interested in cryptography), but it is very dry. It took me four months and two breaks to read the almost 1000 pages of text."
+92,0684831309,http://goodreads.com/user/show/50851554-lanea,5,"excellet, really covers all you might want to knowa little to much raw data here and there, but still greatwhy on earth is the first chapter first? is really pearl harbor the must crucial part of codebreaking&ww2?"
+93,0684831309,http://goodreads.com/user/show/655723-nick-black,4,Fairly authoritative and certainly broad in scope.
+94,0684831309,http://goodreads.com/user/show/591995-jayel,0,July 2015: not available on audio at Mechanics' Institute
+95,0684831309,http://goodreads.com/user/show/1798103-anna,5,"A great history about codes. If you like puzzles, historical analysis, or strategy, this is definitely a book for you to read. "
+96,0684831309,http://goodreads.com/user/show/1871453-gavin,3,"I really wanted to like this book a lot, and much of it actually was very interesting. However, it was just too outdated and too long. "
+97,0684831309,http://goodreads.com/user/show/424953-sammy,3,I was about 11 years old when I read this. I don't remember any of it. But the book was huge and was bigger in my little arms.
+98,0684831309,http://goodreads.com/user/show/6212535-alex,3,"Nice historical reading, but mostly unrelevant to modern cryptography."
+99,0684831309,http://goodreads.com/user/show/6413331-doyle,3,A very thorough history of cryptology. There are some techniques/technologies mentioned that are valid even today.
+100,0684831309,http://goodreads.com/user/show/5679058-bob,5,Long and fascinating
+101,0684831309,http://goodreads.com/user/show/17992610-vu-anh,5,I read this book in vietnames version. It's very good book for who like cryptography
+102,0684831309,http://goodreads.com/user/show/18871235-kjn,3,very interesting but mostly historic. recent advances are very lightly covered.
+103,0684831309,http://goodreads.com/user/show/23975171-warren-adelman,4,Magnum opus on the history. BUT the history only 
+104,0684831309,http://goodreads.com/user/show/38827867-a-deepak897,0,It is an amazing book to learn coading
+105,0684831309,http://goodreads.com/user/show/4076674-tim,4,B&/::: rfTQ .3//SXCn!
+106,0684831309,http://goodreads.com/user/show/45665333-marco-bitetto,5,This is a spell binding account of the history of cryptology and cryptoanalysis... This is a must read for anyone that wants tounderstand what happened in world history...
+107,0684831309,http://goodreads.com/user/show/53124182-dietrich-legat,5,It so happens that my father was a professional codebreaker. He told me a few stories about what really went on in WWII.David Kahn comes closest to all I have read and been told about this subject.
+108,0684831309,http://goodreads.com/user/show/1896233-dan-ragsdale,5,To Roy
+109,0684831309,http://goodreads.com/user/show/4237474-gary-turner,3,"Very comprehensive history, but told in a very dry manner, was very difficult to get through"
+110,0684831309,http://goodreads.com/user/show/6917465-dustin,5,"Took a while but solidly worth it. You sort of realize by the end that you accept as tacit, that all codes can be broken, despite a couple of claims otherwise in the book. Interesting that most of the book was written (and not updated) since before the unsealing of Enigma, and it foreshadows a great deal of the Snowden era NSA."
+111,0684831309,http://goodreads.com/user/show/4853893-eric-bauman,4,"Yes, I finally made it through this book! It is very interesting (if you're interested in cryptography), but it is very dry. It took me four months and two breaks to read the almost 1000 pages of text."
+112,0684831309,http://goodreads.com/user/show/50851554-lanea,5,"excellet, really covers all you might want to knowa little to much raw data here and there, but still greatwhy on earth is the first chapter first? is really pearl harbor the must crucial part of codebreaking&ww2?"
+113,0684831309,http://goodreads.com/user/show/655723-nick-black,4,Fairly authoritative and certainly broad in scope.
+114,0684831309,http://goodreads.com/user/show/591995-jayel,0,July 2015: not available on audio at Mechanics' Institute
+115,0684831309,http://goodreads.com/user/show/1798103-anna,5,"A great history about codes. If you like puzzles, historical analysis, or strategy, this is definitely a book for you to read. "
+116,0684831309,http://goodreads.com/user/show/1871453-gavin,3,"I really wanted to like this book a lot, and much of it actually was very interesting. However, it was just too outdated and too long. "
+117,0684831309,http://goodreads.com/user/show/424953-sammy,3,I was about 11 years old when I read this. I don't remember any of it. But the book was huge and was bigger in my little arms.
+118,0684831309,http://goodreads.com/user/show/6212535-alex,3,"Nice historical reading, but mostly unrelevant to modern cryptography."
+119,0684831309,http://goodreads.com/user/show/6413331-doyle,3,A very thorough history of cryptology. There are some techniques/technologies mentioned that are valid even today.
+120,0684831309,http://goodreads.com/user/show/5679058-bob,5,Long and fascinating
+121,0684831309,http://goodreads.com/user/show/17992610-vu-anh,5,I read this book in vietnames version. It's very good book for who like cryptography
+122,0684831309,http://goodreads.com/user/show/18871235-kjn,3,very interesting but mostly historic. recent advances are very lightly covered.
+123,0684831309,http://goodreads.com/user/show/23975171-warren-adelman,4,Magnum opus on the history. BUT the history only 
+124,0684831309,http://goodreads.com/user/show/38827867-a-deepak897,0,It is an amazing book to learn coading
+125,0684831309,http://goodreads.com/user/show/4076674-tim,4,B&/::: rfTQ .3//SXCn!
+126,0684831309,http://goodreads.com/user/show/45665333-marco-bitetto,5,This is a spell binding account of the history of cryptology and cryptoanalysis... This is a must read for anyone that wants tounderstand what happened in world history...
+127,0684831309,http://goodreads.com/user/show/53124182-dietrich-legat,5,It so happens that my father was a professional codebreaker. He told me a few stories about what really went on in WWII.David Kahn comes closest to all I have read and been told about this subject.
+128,0684831309,http://goodreads.com/user/show/1896233-dan-ragsdale,5,To Roy
+129,0684831309,http://goodreads.com/user/show/4237474-gary-turner,3,"Very comprehensive history, but told in a very dry manner, was very difficult to get through"
+130,0684831309,http://goodreads.com/user/show/6917465-dustin,5,"Took a while but solidly worth it. You sort of realize by the end that you accept as tacit, that all codes can be broken, despite a couple of claims otherwise in the book. Interesting that most of the book was written (and not updated) since before the unsealing of Enigma, and it foreshadows a great deal of the Snowden era NSA."
+131,0684831309,http://goodreads.com/user/show/4853893-eric-bauman,4,"Yes, I finally made it through this book! It is very interesting (if you're interested in cryptography), but it is very dry. It took me four months and two breaks to read the almost 1000 pages of text."
+132,0684831309,http://goodreads.com/user/show/50851554-lanea,5,"excellet, really covers all you might want to knowa little to much raw data here and there, but still greatwhy on earth is the first chapter first? is really pearl harbor the must crucial part of codebreaking&ww2?"
+133,0684831309,http://goodreads.com/user/show/655723-nick-black,4,Fairly authoritative and certainly broad in scope.
+134,0684831309,http://goodreads.com/user/show/591995-jayel,0,July 2015: not available on audio at Mechanics' Institute
+135,0684831309,http://goodreads.com/user/show/1798103-anna,5,"A great history about codes. If you like puzzles, historical analysis, or strategy, this is definitely a book for you to read. "
+136,0684831309,http://goodreads.com/user/show/1871453-gavin,3,"I really wanted to like this book a lot, and much of it actually was very interesting. However, it was just too outdated and too long. "
+137,0684831309,http://goodreads.com/user/show/424953-sammy,3,I was about 11 years old when I read this. I don't remember any of it. But the book was huge and was bigger in my little arms.
+138,0684831309,http://goodreads.com/user/show/6212535-alex,3,"Nice historical reading, but mostly unrelevant to modern cryptography."
+139,0684831309,http://goodreads.com/user/show/6413331-doyle,3,A very thorough history of cryptology. There are some techniques/technologies mentioned that are valid even today.
+140,0684831309,http://goodreads.com/user/show/5679058-bob,5,Long and fascinating
+141,0684831309,http://goodreads.com/user/show/17992610-vu-anh,5,I read this book in vietnames version. It's very good book for who like cryptography
+142,0684831309,http://goodreads.com/user/show/18871235-kjn,3,very interesting but mostly historic. recent advances are very lightly covered.
+143,0684831309,http://goodreads.com/user/show/23975171-warren-adelman,4,Magnum opus on the history. BUT the history only 
+144,0684831309,http://goodreads.com/user/show/38827867-a-deepak897,0,It is an amazing book to learn coading
+145,0684831309,http://goodreads.com/user/show/4076674-tim,4,B&/::: rfTQ .3//SXCn!
+146,0684831309,http://goodreads.com/user/show/45665333-marco-bitetto,5,This is a spell binding account of the history of cryptology and cryptoanalysis... This is a must read for anyone that wants tounderstand what happened in world history...
+147,0684831309,http://goodreads.com/user/show/53124182-dietrich-legat,5,It so happens that my father was a professional codebreaker. He told me a few stories about what really went on in WWII.David Kahn comes closest to all I have read and been told about this subject.
+148,0684831309,http://goodreads.com/user/show/1896233-dan-ragsdale,5,To Roy
+149,0684831309,http://goodreads.com/user/show/4237474-gary-turner,3,"Very comprehensive history, but told in a very dry manner, was very difficult to get through"
+150,0684831309,http://goodreads.com/user/show/6917465-dustin,5,"Took a while but solidly worth it. You sort of realize by the end that you accept as tacit, that all codes can be broken, despite a couple of claims otherwise in the book. Interesting that most of the book was written (and not updated) since before the unsealing of Enigma, and it foreshadows a great deal of the Snowden era NSA."
+151,0684831309,http://goodreads.com/user/show/4853893-eric-bauman,4,"Yes, I finally made it through this book! It is very interesting (if you're interested in cryptography), but it is very dry. It took me four months and two breaks to read the almost 1000 pages of text."
+152,0684831309,http://goodreads.com/user/show/50851554-lanea,5,"excellet, really covers all you might want to knowa little to much raw data here and there, but still greatwhy on earth is the first chapter first? is really pearl harbor the must crucial part of codebreaking&ww2?"
+153,0684831309,http://goodreads.com/user/show/655723-nick-black,4,Fairly authoritative and certainly broad in scope.
+154,0684831309,http://goodreads.com/user/show/591995-jayel,0,July 2015: not available on audio at Mechanics' Institute
+155,0684831309,http://goodreads.com/user/show/1798103-anna,5,"A great history about codes. If you like puzzles, historical analysis, or strategy, this is definitely a book for you to read. "
+156,0684831309,http://goodreads.com/user/show/1871453-gavin,3,"I really wanted to like this book a lot, and much of it actually was very interesting. However, it was just too outdated and too long. "
+157,0684831309,http://goodreads.com/user/show/424953-sammy,3,I was about 11 years old when I read this. I don't remember any of it. But the book was huge and was bigger in my little arms.
+158,0684831309,http://goodreads.com/user/show/6212535-alex,3,"Nice historical reading, but mostly unrelevant to modern cryptography."
+159,0684831309,http://goodreads.com/user/show/6413331-doyle,3,A very thorough history of cryptology. There are some techniques/technologies mentioned that are valid even today.
+160,0684831309,http://goodreads.com/user/show/5679058-bob,5,Long and fascinating
+161,0684831309,http://goodreads.com/user/show/17992610-vu-anh,5,I read this book in vietnames version. It's very good book for who like cryptography
+162,0684831309,http://goodreads.com/user/show/18871235-kjn,3,very interesting but mostly historic. recent advances are very lightly covered.
+163,0684831309,http://goodreads.com/user/show/23975171-warren-adelman,4,Magnum opus on the history. BUT the history only 
+164,0684831309,http://goodreads.com/user/show/38827867-a-deepak897,0,It is an amazing book to learn coading
+165,0684831309,http://goodreads.com/user/show/4076674-tim,4,B&/::: rfTQ .3//SXCn!
+166,0684831309,http://goodreads.com/user/show/45665333-marco-bitetto,5,This is a spell binding account of the history of cryptology and cryptoanalysis... This is a must read for anyone that wants tounderstand what happened in world history...
+167,0684831309,http://goodreads.com/user/show/53124182-dietrich-legat,5,It so happens that my father was a professional codebreaker. He told me a few stories about what really went on in WWII.David Kahn comes closest to all I have read and been told about this subject.
+168,0684831309,http://goodreads.com/user/show/1896233-dan-ragsdale,5,To Roy
+169,0684831309,http://goodreads.com/user/show/4237474-gary-turner,3,"Very comprehensive history, but told in a very dry manner, was very difficult to get through"
+170,0684831309,http://goodreads.com/user/show/6917465-dustin,5,"Took a while but solidly worth it. You sort of realize by the end that you accept as tacit, that all codes can be broken, despite a couple of claims otherwise in the book. Interesting that most of the book was written (and not updated) since before the unsealing of Enigma, and it foreshadows a great deal of the Snowden era NSA."
+171,0684831309,http://goodreads.com/user/show/4853893-eric-bauman,4,"Yes, I finally made it through this book! It is very interesting (if you're interested in cryptography), but it is very dry. It took me four months and two breaks to read the almost 1000 pages of text."
+172,0684831309,http://goodreads.com/user/show/50851554-lanea,5,"excellet, really covers all you might want to knowa little to much raw data here and there, but still greatwhy on earth is the first chapter first? is really pearl harbor the must crucial part of codebreaking&ww2?"
+173,0684831309,http://goodreads.com/user/show/655723-nick-black,4,Fairly authoritative and certainly broad in scope.
+174,0684831309,http://goodreads.com/user/show/591995-jayel,0,July 2015: not available on audio at Mechanics' Institute
+175,0684831309,http://goodreads.com/user/show/1798103-anna,5,"A great history about codes. If you like puzzles, historical analysis, or strategy, this is definitely a book for you to read. "
+176,0684831309,http://goodreads.com/user/show/1871453-gavin,3,"I really wanted to like this book a lot, and much of it actually was very interesting. However, it was just too outdated and too long. "
+177,0684831309,http://goodreads.com/user/show/424953-sammy,3,I was about 11 years old when I read this. I don't remember any of it. But the book was huge and was bigger in my little arms.
+178,0684831309,http://goodreads.com/user/show/6212535-alex,3,"Nice historical reading, but mostly unrelevant to modern cryptography."
+179,0684831309,http://goodreads.com/user/show/6413331-doyle,3,A very thorough history of cryptology. There are some techniques/technologies mentioned that are valid even today.
+180,0684831309,http://goodreads.com/user/show/5679058-bob,5,Long and fascinating
+181,0684831309,http://goodreads.com/user/show/17992610-vu-anh,5,I read this book in vietnames version. It's very good book for who like cryptography
+182,0684831309,http://goodreads.com/user/show/18871235-kjn,3,very interesting but mostly historic. recent advances are very lightly covered.
+183,0684831309,http://goodreads.com/user/show/23975171-warren-adelman,4,Magnum opus on the history. BUT the history only 
+184,0684831309,http://goodreads.com/user/show/38827867-a-deepak897,0,It is an amazing book to learn coading
+185,0684831309,http://goodreads.com/user/show/4076674-tim,4,B&/::: rfTQ .3//SXCn!
+186,0684831309,http://goodreads.com/user/show/45665333-marco-bitetto,5,This is a spell binding account of the history of cryptology and cryptoanalysis... This is a must read for anyone that wants tounderstand what happened in world history...
+187,0684831309,http://goodreads.com/user/show/53124182-dietrich-legat,5,It so happens that my father was a professional codebreaker. He told me a few stories about what really went on in WWII.David Kahn comes closest to all I have read and been told about this subject.
+188,0684831309,http://goodreads.com/user/show/1896233-dan-ragsdale,5,To Roy
+189,0684831309,http://goodreads.com/user/show/4237474-gary-turner,3,"Very comprehensive history, but told in a very dry manner, was very difficult to get through"
+190,0684831309,http://goodreads.com/user/show/6917465-dustin,5,"Took a while but solidly worth it. You sort of realize by the end that you accept as tacit, that all codes can be broken, despite a couple of claims otherwise in the book. Interesting that most of the book was written (and not updated) since before the unsealing of Enigma, and it foreshadows a great deal of the Snowden era NSA."
+191,0684831309,http://goodreads.com/user/show/4853893-eric-bauman,4,"Yes, I finally made it through this book! It is very interesting (if you're interested in cryptography), but it is very dry. It took me four months and two breaks to read the almost 1000 pages of text."
+192,0684831309,http://goodreads.com/user/show/50851554-lanea,5,"excellet, really covers all you might want to knowa little to much raw data here and there, but still greatwhy on earth is the first chapter first? is really pearl harbor the must crucial part of codebreaking&ww2?"
+193,0684831309,http://goodreads.com/user/show/655723-nick-black,4,Fairly authoritative and certainly broad in scope.
+194,0684831309,http://goodreads.com/user/show/591995-jayel,0,July 2015: not available on audio at Mechanics' Institute
+195,0684831309,http://goodreads.com/user/show/1798103-anna,5,"A great history about codes. If you like puzzles, historical analysis, or strategy, this is definitely a book for you to read. "
+196,0684831309,http://goodreads.com/user/show/1871453-gavin,3,"I really wanted to like this book a lot, and much of it actually was very interesting. However, it was just too outdated and too long. "
+197,0684831309,http://goodreads.com/user/show/424953-sammy,3,I was about 11 years old when I read this. I don't remember any of it. But the book was huge and was bigger in my little arms.
+198,0684831309,http://goodreads.com/user/show/6212535-alex,3,"Nice historical reading, but mostly unrelevant to modern cryptography."
+199,0684831309,http://goodreads.com/user/show/6413331-doyle,3,A very thorough history of cryptology. There are some techniques/technologies mentioned that are valid even today.
+200,0684831309,http://goodreads.com/user/show/5679058-bob,5,Long and fascinating
+201,0684831309,http://goodreads.com/user/show/17992610-vu-anh,5,I read this book in vietnames version. It's very good book for who like cryptography
+202,0684831309,http://goodreads.com/user/show/18871235-kjn,3,very interesting but mostly historic. recent advances are very lightly covered.
+203,0684831309,http://goodreads.com/user/show/23975171-warren-adelman,4,Magnum opus on the history. BUT the history only 
+204,0684831309,http://goodreads.com/user/show/38827867-a-deepak897,0,It is an amazing book to learn coading
+205,0684831309,http://goodreads.com/user/show/4076674-tim,4,B&/::: rfTQ .3//SXCn!
+206,0684831309,http://goodreads.com/user/show/45665333-marco-bitetto,5,This is a spell binding account of the history of cryptology and cryptoanalysis... This is a must read for anyone that wants tounderstand what happened in world history...
+207,0684831309,http://goodreads.com/user/show/53124182-dietrich-legat,5,It so happens that my father was a professional codebreaker. He told me a few stories about what really went on in WWII.David Kahn comes closest to all I have read and been told about this subject.
+208,0684831309,http://goodreads.com/user/show/1896233-dan-ragsdale,5,To Roy
+209,0684831309,http://goodreads.com/user/show/4237474-gary-turner,3,"Very comprehensive history, but told in a very dry manner, was very difficult to get through"
