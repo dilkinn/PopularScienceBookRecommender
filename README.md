@@ -28,11 +28,11 @@ Using genres information, I performed KMeans clustering of all books I have into
 - History and Philosophy
 
 <div align="center">
-    <img height="100" src="img/cat_0.png">
-    <img height="100" src="img/cat_1.png">
-    <img height="100" src="img/cat_2.png">
-    <img height="100" src="img/cat_3.png">
-    <img height="100" src="img/cat_4.png">
+    <img height="200" src="img/cat_0.png">
+    <img height="200" src="img/cat_1.png">
+    <img height="200" src="img/cat_2.png">
+    <img height="200" src="img/cat_3.png">
+    <img height="200" src="img/cat_4.png">
 </div>
 
 Those clusters can be used as filters later on, in order to provide a user a choice, if they want to explore a new field.
