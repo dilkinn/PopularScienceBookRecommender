@@ -90,5 +90,4 @@ Further improvements of the model could be done by adding books description and 
 ## Future steps
 
 - Add more books
-- Productionize the recomendation model by
-- 
+- Productionize the recomendation model by building an interactive flask app and allowing users to upload their preferences from GoodReads.
